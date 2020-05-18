@@ -1,13 +1,13 @@
 # TheOpenLinux logo
 
-![TheOpenLinux logo](https://github.com/the-openlinux-project/theopenlinux-logo/TheOpenLinux-circle.png)
+![TheOpenLinux logo](https://the-openlinux-project.github.io/static/TheOpenLinux_300x300.png)
 
 "TheOpenLinux"
 
 ## Export Setting
 
 - Transparent
-- 32color
+- 17color
 - 300px
 
 ## Copyright
