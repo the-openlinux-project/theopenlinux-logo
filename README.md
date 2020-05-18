@@ -1,6 +1,6 @@
 # TheOpenLinux logo
 
-![TheOpenLinux logo](https://github.com/the-openlinux-project/theopenlinux-logo/TheOpenLinux-circle.png)
+![TheOpenLinux logo](https://github.com/the-openlinux-project/theopenlinux-logo/Logo/TheOpenLinux_300x300.png)
 
 "TheOpenLinux"
 
