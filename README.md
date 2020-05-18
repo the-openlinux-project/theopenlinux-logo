@@ -8,7 +8,7 @@
 
 - Transparent
 - 17color
-- 300px
+- 1200px
 
 ## Copyright
 
